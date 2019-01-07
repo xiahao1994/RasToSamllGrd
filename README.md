@@ -1,1 +1,2 @@
 # RasFileOperate
+这个工程师将大文件Ras数据转化为小的ras数据（采用个点抽样的方法）另附png图片的输出
